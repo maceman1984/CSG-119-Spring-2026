@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 5f00a24db6fe4a64eac2fe3b89ffb9ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6063401086914128312
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: 1863675241629919190
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: -4121652763393766734
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: -5009180220364616952
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: -4864976261687131389
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: 7117519039525974559
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: 1956313083027397059
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: -5650844109547640842
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: 357111071713524142
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: -836963733569095143
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: 1698346163863171140
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: -8973289818628590302
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: -3596421384095716626
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: -3185591817906463479
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: -3873704185168966524
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: 2358403439353885704
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: 3708796988837427353
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: 1261489388901423271
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_17
+  - first:
+      213: -1027792007317596841
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_18
+  - first:
+      213: -3617015840669707795
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_19
+  - first:
+      213: 7370639470616404264
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_20
+  - first:
+      213: 3658200504708883567
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_21
+  - first:
+      213: -3721041549195214563
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_22
+  - first:
+      213: -8921487672713273491
+    second: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2923
+        width: 410
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84614c336d87adba0800000000000000
+      internalID: -6063401086914128312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2923
+        width: 411
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7aa0212ca1dd910800000000000000
+      internalID: 1863675241629919190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 2923
+        width: 411
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba486e26a2fcc6c0800000000000000
+      internalID: -4121652763393766734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 4273
+        y: 2923
+        width: 411
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b014d1121db7ab0800000000000000
+      internalID: -5009180220364616952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 5563
+        y: 2923
+        width: 410
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3034e61add12c7cb0800000000000000
+      internalID: -4864976261687131389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2203
+        width: 411
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1276013bd186c260800000000000000
+      internalID: 7117519039525974559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 2203
+        width: 411
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c91c4f4268362b10800000000000000
+      internalID: 1956313083027397059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 2203
+        width: 410
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7ed49c83b2491b0800000000000000
+      internalID: -5650844109547640842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 4316
+        y: 2203
+        width: 411
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9f7dea0a6b4f400800000000000000
+      internalID: 357111071713524142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 5604
+        y: 2203
+        width: 410
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91abab23be18264f0800000000000000
+      internalID: -836963733569095143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1483
+        width: 411
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44036ba76dcb19710800000000000000
+      internalID: 1698346163863171140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 1483
+        width: 411
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2257306d378787380800000000000000
+      internalID: -8973289818628590302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_12
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 1483
+        width: 411
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea2b5a4ec1f61ec0800000000000000
+      internalID: -3596421384095716626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_13
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 1483
+        width: 411
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d5b4e9e118ac3d0800000000000000
+      internalID: -3185591817906463479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_14
+      rect:
+        serializedVersion: 2
+        x: 5611
+        y: 1483
+        width: 411
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c4f0e3196dd3ac0800000000000000
+      internalID: -3873704185168966524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_15
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 763
+        width: 410
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8047fb7ce6bbab020800000000000000
+      internalID: 2358403439353885704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_16
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 763
+        width: 411
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99871b7163b487330800000000000000
+      internalID: 3708796988837427353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_17
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 763
+        width: 410
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8d4616ae5b18110800000000000000
+      internalID: 1261489388901423271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_18
+      rect:
+        serializedVersion: 2
+        x: 4301
+        y: 763
+        width: 411
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75559d46d9c8cb1f0800000000000000
+      internalID: -1027792007317596841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_19
+      rect:
+        serializedVersion: 2
+        x: 5572
+        y: 763
+        width: 411
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1dbe5b147cdcdc0800000000000000
+      internalID: -3617015840669707795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_20
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 43
+        width: 410
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82160951c85c94660800000000000000
+      internalID: 7370639470616404264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_21
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 43
+        width: 411
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64e3502af984c230800000000000000
+      internalID: 3658200504708883567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_22
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 43
+        width: 411
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1100c90d643c5cc0800000000000000
+      internalID: -3721041549195214563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_23
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 43
+        width: 411
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f16efca32803480800000000000000
+      internalID: -8921487672713273491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_0: -6063401086914128312
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_1: 1863675241629919190
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_10: 1698346163863171140
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_11: -8973289818628590302
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_12: -3596421384095716626
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_13: -3185591817906463479
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_14: -3873704185168966524
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_15: 2358403439353885704
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_16: 3708796988837427353
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_17: 1261489388901423271
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_18: -1027792007317596841
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_19: -3617015840669707795
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_2: -4121652763393766734
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_20: 7370639470616404264
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_21: 3658200504708883567
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_22: -3721041549195214563
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_23: -8921487672713273491
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_3: -5009180220364616952
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_4: -4864976261687131389
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_5: 7117519039525974559
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_6: 1956313083027397059
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_7: -5650844109547640842
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_8: 357111071713524142
+      Squatmascotworkoutanimation.-ezgif.com-gif-to-sprite-converter_9: -836963733569095143
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

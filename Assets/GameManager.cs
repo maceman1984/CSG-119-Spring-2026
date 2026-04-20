@@ -1,6 +1,10 @@
-using System.Collections;
+using System.Collections.Generic;
+using System.Linq.Expressions;
+using System.Threading;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using UnityEngine.UIElements;
 
 public class GameManager : MonoBehaviour
 {
@@ -21,42 +25,28 @@ public class GameManager : MonoBehaviour
     public GameObject[] excercisesTF = new GameObject[4];
     // The imported text fields for displaying question and answer
 
-    [Space(2f)]
-    [Header("Debug Stuffs")]
-    [Tooltip("Timer Manager script for referencing")]
-    public TimerManager timer;
-    [Tooltip("Setting for game pacing")]
-    public bool autoPlay;
-    [Tooltip("Setting for game pacing")]
-    public float guessDuration;
-    [Tooltip("Setting for game pacing")]
-    public float defaultAnswerDuration = 15f;
-
+    public TimerNew tn;
 
     private string[] dbAnswers = new string[4];
     // translation variable
 
+    public TimerManager timer;
+    public ExerciseManager em;
 
 
     void Start()
     {
-        autoPlay = autoPlayParse();
         importer.ReadCSV();
         exerciseImporter.ParseExercises();
         NextQuestion(); // In place for temporary builds so that you dont have to press the next question button and see the unpolished stuff
+    }
 
-    }
-    bool autoPlayParse()
-    {
-        string temp = PlayerPrefs.GetString("autoPlay");
-        if (temp == "true") return true;
-        else return false;
-    }
     public void NextQuestion() //Function for setting up next question + answers
     {
         for (int i = 0; i < answers.Length; i++)
         {
             answers[i].SetActive(true);
+            em.exercises[i].SetActive(false);
         }
         int qID = Random.Range(1, importer.questionList.Count);
         GameObject currentQuestion = importer.questionList[qID];
@@ -83,10 +73,10 @@ public class GameManager : MonoBehaviour
         {
             answers[i].GetComponent<Text>().text = dbAnswers[i];
         }
-        exerciseImporter.ShuffleAndCastExercises();
+        em.ShuffleAndCastExercises();
         // ts blah blah garbage ngl
+
         timer.ResetTimer();
-        if (!autoPlay) return;
         timer.StartTimer();
     }
 
@@ -95,44 +85,18 @@ public class GameManager : MonoBehaviour
         for (int i = 1; i < answers.Length; i++)
         {
             answers[i].SetActive(false);
+            //em.exercises[i].SetActive(false);
         }
 
         timer.StopTimer();
-        if (autoPlay) StartCoroutine(CorrectAnswerTimer()); // auto progress to next question if autoPlay is true
     }
 
     public void QuitGame()
     {
-        PlayerPrefs.Save();
         Application.Quit();
     }
-
-    public void GameFlow() // this is a fake function for deciding the game flow with comments.
+    public void QuitMenu()
     {
-        // Ready set go
-        // Display stuffs
-        // Start timer
-        // Play music
-        // Timer ends ->
-        // Display correct answer
-        // Custom wait time for going next page
-        // NextQuestion()
-    }
-
-    IEnumerator CorrectAnswerTimer()
-    {
-        yield return new WaitForSeconds(catPrompt());
-        NextQuestion();
-    }
-    private float catPrompt()
-    {
-        if (PlayerPrefs.HasKey("answerTime"))
-        {
-            return PlayerPrefs.GetFloat("answerTime");
-        }
-        else
-        {
-            return defaultAnswerDuration;
-        }
+        SceneManager.LoadScene("Main Menu");
     }
 }

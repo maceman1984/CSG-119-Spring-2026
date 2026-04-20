@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 5681713f7da646e498ca88b3d0b7930b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2576828386430864028
+    second: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: 6489875961795658049
+    second: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: -4033644364545895269
+    second: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: 7872205588304197388
+    second: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: 9532074904057111
+    second: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: 8911164130969340187
+    second: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: -6852696741269617495
+    second: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: 6383709633826615509
+    second: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: -976565266111392969
+    second: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: -6816304208507646530
+    second: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: -9867991006552953
+    second: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: 3563094198038362373
+    second: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: 4275029326251125114
+    second: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: 1652429361991718493
+    second: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: -3233723720393208122
+    second: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: -5973622165964973923
+    second: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: -5352266637835842608
+    second: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: 2539656700518245914
+    second: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2264
+        width: 360
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46535a33c344d3cd0800000000000000
+      internalID: -2576828386430864028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 2270
+        width: 438
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1414d2b6dcba01a50800000000000000
+      internalID: 6489875961795658049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 2933
+        y: 2276
+        width: 495
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b945cf452dd9508c0800000000000000
+      internalID: -4033644364545895269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 4221
+        y: 2285
+        width: 472
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0777b91641bf3d60800000000000000
+      internalID: 7872205588304197388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 5521
+        y: 2274
+        width: 444
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715f0a22f5dd12000800000000000000
+      internalID: 9532074904057111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1544
+        width: 406
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1941a15090daab70800000000000000
+      internalID: 8911164130969340187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1534
+        width: 363
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4c527fe9456e0a0800000000000000
+      internalID: -6852696741269617495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 1524
+        width: 324
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d07971f61e779850800000000000000
+      internalID: 6383709633826615509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 4314
+        y: 1524
+        width: 324
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7331275801b8272f0800000000000000
+      internalID: -976565266111392969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 5594
+        y: 1524
+        width: 324
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdc6eacf6f9761a0800000000000000
+      internalID: -6816304208507646530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 804
+        width: 324
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c586d4d11fcdff0800000000000000
+      internalID: -9867991006552953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 814
+        width: 363
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509f4578b47a27130800000000000000
+      internalID: 3563094198038362373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_12
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 824
+        width: 406
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79639ba584f35b30800000000000000
+      internalID: 4275029326251125114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_13
+      rect:
+        serializedVersion: 2
+        x: 4241
+        y: 834
+        width: 444
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5611f1ffbb9ee610800000000000000
+      internalID: 1652429361991718493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_14
+      rect:
+        serializedVersion: 2
+        x: 5501
+        y: 845
+        width: 472
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce4538c8618f13d0800000000000000
+      internalID: -3233723720393208122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_15
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 116
+        width: 495
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9812472a4e691da0800000000000000
+      internalID: -5973622165964973923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_16
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 110
+        width: 438
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbce94b9dde8b5b0800000000000000
+      internalID: -5352266637835842608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_17
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 104
+        width: 360
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16a4dd305cae3320800000000000000
+      internalID: 2539656700518245914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_0: -2576828386430864028
+      mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_1: 6489875961795658049
+      mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_10: -9867991006552953
+      mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_11: 3563094198038362373
+      mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_12: 4275029326251125114
+      mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_13: 1652429361991718493
+      mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_14: -3233723720393208122
+      mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_15: -5973622165964973923
+      mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_16: -5352266637835842608
+      mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_17: 2539656700518245914
+      mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_2: -4033644364545895269
+      mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_3: 7872205588304197388
+      mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_4: 9532074904057111
+      mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_5: 8911164130969340187
+      mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_6: -6852696741269617495
+      mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_7: 6383709633826615509
+      mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_8: -976565266111392969
+      mascotjumpingjackanimation-ezgif.com-gif-to-sprite-converter_9: -6816304208507646530
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

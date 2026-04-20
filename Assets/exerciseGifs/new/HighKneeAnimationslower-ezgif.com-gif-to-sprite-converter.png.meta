@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 2e1d3f7f137a28f469b94abe34b2019e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3324724362157127772
+    second: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: -6630603087308852193
+    second: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: -7494124778999630352
+    second: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: -3783216053762461908
+    second: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: -1653481527993517755
+    second: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: -7918224269895279362
+    second: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: 2106655076699166531
+    second: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: 2062089444095655022
+    second: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: 432687962649894375
+    second: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: 6358055652739593013
+    second: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: 5185928452127767076
+    second: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: 2228351050090817362
+    second: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2217
+        width: 481
+        height: 849
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a78989cec43cd1d0800000000000000
+      internalID: -3324724362157127772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 2277
+        width: 450
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14f85e5f9d5bf3a0800000000000000
+      internalID: -6630603087308852193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 4648
+        y: 2319
+        width: 382
+        height: 763
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5364518358ff790800000000000000
+      internalID: -7494124778999630352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 6606
+        y: 2319
+        width: 344
+        height: 763
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2feeee1b015f7bc0800000000000000
+      internalID: -3783216053762461908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 8495
+        y: 2424
+        width: 376
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549b6419f47ad09e0800000000000000
+      internalID: -1653481527993517755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1344
+        width: 376
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcd305aaf0dc1290800000000000000
+      internalID: -7918224269895279362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 1126
+        width: 412
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3475de671a75c3d10800000000000000
+      internalID: 2106655076699166531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 1102
+        width: 451
+        height: 871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c776a8c630e9c10800000000000000
+      internalID: 2062089444095655022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 6542
+        y: 1095
+        width: 409
+        height: 878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed9558d867310600800000000000000
+      internalID: 432687962649894375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 8495
+        y: 1344
+        width: 395
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53335b30ee95c3850800000000000000
+      internalID: 6358055652739593013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 237
+        width: 395
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42abaa3737e18f740800000000000000
+      internalID: 5185928452127767076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 114
+        width: 438
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25728874971bcee10800000000000000
+      internalID: 2228351050090817362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_0: -3324724362157127772
+      HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_1: -6630603087308852193
+      HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_10: 5185928452127767076
+      HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_11: 2228351050090817362
+      HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_2: -7494124778999630352
+      HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_3: -3783216053762461908
+      HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_4: -1653481527993517755
+      HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_5: -7918224269895279362
+      HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_6: 2106655076699166531
+      HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_7: 2062089444095655022
+      HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_8: 432687962649894375
+      HighKneeAnimationslower-ezgif.com-gif-to-sprite-converter_9: 6358055652739593013
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
