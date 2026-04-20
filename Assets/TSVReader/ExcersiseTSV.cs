@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using System.IO;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -46,15 +47,15 @@ public class ExcersiseTSV : MonoBehaviour
     {
         for (int i = 0; i < exercises.Count; i++)
         {
-            string tmp = exercises[i];
+            string temp = exercises[i];
             int j = Random.Range(i, exercises.Count);
             exercises[i] = exercises[j];
-            exercises[j] = tmp;
+            exercises[j] = temp;
         }
         for (int i = 0; i < gm.excercisesTF.Length ; i++)
         {
             //Debug.Log(exercises);
-            gm.excercisesTF[i].GetComponent<Text>().text = exercises[i];
+            gm.excercisesTF[i].GetComponent<TextMeshPro>().text = exercises[i];
         }
     }
 
