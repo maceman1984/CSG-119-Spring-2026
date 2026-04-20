@@ -1,0 +1,1373 @@
+fileFormatVersion: 2
+guid: ed3aa5a4e0d3b7b4bbe8efbedadcbea9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7907732612808085689
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_0
+  - first:
+      213: -8226923279421891429
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_1
+  - first:
+      213: -5946745348477684361
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_2
+  - first:
+      213: -9217483305746057645
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_3
+  - first:
+      213: 3566715133935936221
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_4
+  - first:
+      213: 7565321005963317596
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_5
+  - first:
+      213: 5296535958608868528
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_6
+  - first:
+      213: 3583346728084326200
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_7
+  - first:
+      213: -2809652967762492329
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_8
+  - first:
+      213: 5383541725264466883
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_9
+  - first:
+      213: -7017055034785990752
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_10
+  - first:
+      213: 6759842916105300103
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_11
+  - first:
+      213: -984679480501925094
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_12
+  - first:
+      213: 3663359283414477573
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_13
+  - first:
+      213: -6001504413968099989
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_14
+  - first:
+      213: 3263677061515463101
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_15
+  - first:
+      213: -4359284592071796957
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_16
+  - first:
+      213: 4817661522984158120
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_17
+  - first:
+      213: 7737996274089642299
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_18
+  - first:
+      213: 3010351028046742718
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_19
+  - first:
+      213: 177677844291953592
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_20
+  - first:
+      213: 1536493353875750394
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_21
+  - first:
+      213: -5525736850854981026
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_22
+  - first:
+      213: 6223167022508001552
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_23
+  - first:
+      213: 1380438287772876018
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_24
+  - first:
+      213: -2612941017317624441
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_25
+  - first:
+      213: -7611369450224290960
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_26
+  - first:
+      213: -2512307128144004700
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_27
+  - first:
+      213: -1958991215400831382
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_28
+  - first:
+      213: 7851088400965208297
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_29
+  - first:
+      213: 1767211863820899793
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_30
+  - first:
+      213: 670657376217234789
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_31
+  - first:
+      213: 3484479780373033324
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_32
+  - first:
+      213: -7723504440742324808
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_33
+  - first:
+      213: 5832650089699016965
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_34
+  - first:
+      213: -8163331569670775744
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_35
+  - first:
+      213: -8332220142375938633
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_36
+  - first:
+      213: 7129748218900074935
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_37
+  - first:
+      213: 7815498427422720231
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_38
+  - first:
+      213: 3579037170007561269
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_39
+  - first:
+      213: 6238406332662988514
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_40
+  - first:
+      213: 4594912782000499920
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_41
+  - first:
+      213: -5808694735934160489
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_42
+  - first:
+      213: 4194530819336436068
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_43
+  - first:
+      213: -3706949599214054446
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_44
+  - first:
+      213: -4696481809838827020
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_45
+  - first:
+      213: -3073606772165616536
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_46
+  - first:
+      213: -1948505158276342037
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_47
+  - first:
+      213: 92878761955336590
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_48
+  - first:
+      213: -4935737496553912698
+    second: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_2
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 10029
+        width: 506
+        height: 517
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775f74edc9ae87da0800000000000000
+      internalID: -5946745348477684361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_3
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 10029
+        width: 506
+        height: 517
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356b9ed05cbe41080800000000000000
+      internalID: -9217483305746057645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_4
+      rect:
+        serializedVersion: 2
+        x: 4564
+        y: 10029
+        width: 509
+        height: 517
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2e24d54848f7130800000000000000
+      internalID: 3566715133935936221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_5
+      rect:
+        serializedVersion: 2
+        x: 6476
+        y: 10032
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c519e344f5b6df860800000000000000
+      internalID: 7565321005963317596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_6
+      rect:
+        serializedVersion: 2
+        x: 8386
+        y: 10037
+        width: 517
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4f6f06463118940800000000000000
+      internalID: 5296535958608868528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_7
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 8963
+        width: 517
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83746822dda9ab130800000000000000
+      internalID: 3583346728084326200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_8
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 8968
+        width: 515
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7540562138b1209d0800000000000000
+      internalID: -2809652967762492329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_9
+      rect:
+        serializedVersion: 2
+        x: 4531
+        y: 8971
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3d1e70dae26ba40800000000000000
+      internalID: 5383541725264466883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_10
+      rect:
+        serializedVersion: 2
+        x: 6453
+        y: 8968
+        width: 515
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7f632bf996e9e90800000000000000
+      internalID: -7017055034785990752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_11
+      rect:
+        serializedVersion: 2
+        x: 8381
+        y: 8960
+        width: 518
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788a5e72159cfcd50800000000000000
+      internalID: 6759842916105300103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_12
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 7873
+        width: 515
+        height: 513
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b0113ca37b552f0800000000000000
+      internalID: -984679480501925094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_13
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 7869
+        width: 508
+        height: 517
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bac84ebddd6d230800000000000000
+      internalID: 3663359283414477573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_14
+      rect:
+        serializedVersion: 2
+        x: 4570
+        y: 7868
+        width: 505
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b651e77688f56bca0800000000000000
+      internalID: -6001504413968099989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_15
+      rect:
+        serializedVersion: 2
+        x: 6487
+        y: 7869
+        width: 507
+        height: 517
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db94839eef8ea4d20800000000000000
+      internalID: 3263677061515463101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_16
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 7871
+        width: 511
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3271abe82c5b083c0800000000000000
+      internalID: -4359284592071796957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_17
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 6794
+        width: 515
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3c98d41a5cbd240800000000000000
+      internalID: 4817661522984158120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_18
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 6799
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39c8661d92e26b60800000000000000
+      internalID: 7737996274089642299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_19
+      rect:
+        serializedVersion: 2
+        x: 4535
+        y: 6806
+        width: 516
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb445fb7f4ae6c920800000000000000
+      internalID: 3010351028046742718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_20
+      rect:
+        serializedVersion: 2
+        x: 6451
+        y: 6810
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3aa79de0d377200800000000000000
+      internalID: 177677844291953592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_21
+      rect:
+        serializedVersion: 2
+        x: 8370
+        y: 6812
+        width: 512
+        height: 513
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd338d8098b25510800000000000000
+      internalID: 1536493353875750394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_22
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 5730
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52d08a5c93a053b0800000000000000
+      internalID: -5525736850854981026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_23
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 5724
+        width: 517
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019c38a6f612d5650800000000000000
+      internalID: 6223167022508001552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_24
+      rect:
+        serializedVersion: 2
+        x: 4545
+        y: 5718
+        width: 517
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcfc011f4d482310800000000000000
+      internalID: 1380438287772876018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_25
+      rect:
+        serializedVersion: 2
+        x: 6472
+        y: 5713
+        width: 515
+        height: 513
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7853cbb1df7fcbbd0800000000000000
+      internalID: -2612941017317624441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_26
+      rect:
+        serializedVersion: 2
+        x: 8396
+        y: 5712
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073fe11dfcbfe5690800000000000000
+      internalID: -7611369450224290960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_27
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 4632
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a97b4c4afd722dd0800000000000000
+      internalID: -2512307128144004700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_28
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 4632
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a663ce76ed340d4e0800000000000000
+      internalID: -1958991215400831382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_29
+      rect:
+        serializedVersion: 2
+        x: 4556
+        y: 4632
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e888b7cd4ba4fc60800000000000000
+      internalID: 7851088400965208297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_30
+      rect:
+        serializedVersion: 2
+        x: 6476
+        y: 4632
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d596e9b3d5668810800000000000000
+      internalID: 1767211863820899793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_31
+      rect:
+        serializedVersion: 2
+        x: 8396
+        y: 4632
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d7c639457ae4900800000000000000
+      internalID: 670657376217234789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_32
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 3552
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c617a2016eb5b5030800000000000000
+      internalID: 3484479780373033324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_33
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 3552
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5d66cc1a990d490800000000000000
+      internalID: -7723504440742324808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_34
+      rect:
+        serializedVersion: 2
+        x: 4556
+        y: 3552
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50109a79a5cb1f050800000000000000
+      internalID: 5832650089699016965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_35
+      rect:
+        serializedVersion: 2
+        x: 6476
+        y: 3552
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c9a06403506be80800000000000000
+      internalID: -8163331569670775744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_36
+      rect:
+        serializedVersion: 2
+        x: 8396
+        y: 3552
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5d35f2de10e5c80800000000000000
+      internalID: -8332220142375938633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_37
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2472
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b15385ea34f1f260800000000000000
+      internalID: 7129748218900074935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_38
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 2472
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0c725596a367c60800000000000000
+      internalID: 7815498427422720231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_39
+      rect:
+        serializedVersion: 2
+        x: 4556
+        y: 2472
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5345834f75b4ba130800000000000000
+      internalID: 3579037170007561269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_40
+      rect:
+        serializedVersion: 2
+        x: 6476
+        y: 2472
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eebceec185439650800000000000000
+      internalID: 6238406332662988514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_41
+      rect:
+        serializedVersion: 2
+        x: 8396
+        y: 2472
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcaa0194d864cf30800000000000000
+      internalID: 4594912782000499920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_42
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1392
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79186f7d9ee536fa0800000000000000
+      internalID: -5808694735934160489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_43
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 1392
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469f9fd7e87f53a30800000000000000
+      internalID: 4194530819336436068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_44
+      rect:
+        serializedVersion: 2
+        x: 4556
+        y: 1392
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3d192daf44e8cc0800000000000000
+      internalID: -3706949599214054446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_45
+      rect:
+        serializedVersion: 2
+        x: 6476
+        y: 1392
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9197e4daeb2deb0800000000000000
+      internalID: -4696481809838827020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_46
+      rect:
+        serializedVersion: 2
+        x: 8396
+        y: 1392
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c55d5ecea5855d0800000000000000
+      internalID: -3073606772165616536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_47
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 312
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee1ce5d1e485f4e0800000000000000
+      internalID: -1948505158276342037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_48
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 312
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81a68dedb8f94100800000000000000
+      internalID: 92878761955336590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_49
+      rect:
+        serializedVersion: 2
+        x: 4556
+        y: 312
+        width: 513
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6860455c5ecb08bb0800000000000000
+      internalID: -4935737496553912698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 24b67dcfa6d44074596c56d6d0bfecf9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_0: -7907732612808085689
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_1: -8226923279421891429
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_10: -7017055034785990752
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_11: 6759842916105300103
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_12: -984679480501925094
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_13: 3663359283414477573
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_14: -6001504413968099989
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_15: 3263677061515463101
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_16: -4359284592071796957
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_17: 4817661522984158120
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_18: 7737996274089642299
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_19: 3010351028046742718
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_2: -5946745348477684361
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_20: 177677844291953592
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_21: 1536493353875750394
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_22: -5525736850854981026
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_23: 6223167022508001552
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_24: 1380438287772876018
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_25: -2612941017317624441
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_26: -7611369450224290960
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_27: -2512307128144004700
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_28: -1958991215400831382
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_29: 7851088400965208297
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_3: -9217483305746057645
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_30: 1767211863820899793
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_31: 670657376217234789
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_32: 3484479780373033324
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_33: -7723504440742324808
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_34: 5832650089699016965
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_35: -8163331569670775744
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_36: -8332220142375938633
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_37: 7129748218900074935
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_38: 7815498427422720231
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_39: 3579037170007561269
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_4: 3566715133935936221
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_40: 6238406332662988514
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_41: 4594912782000499920
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_42: -5808694735934160489
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_43: 4194530819336436068
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_44: -3706949599214054446
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_45: -4696481809838827020
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_46: -3073606772165616536
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_47: -1948505158276342037
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_48: 92878761955336590
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_49: -4935737496553912698
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_5: 7565321005963317596
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_6: 5296535958608868528
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_7: 3583346728084326200
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_8: -2809652967762492329
+      BadgerBalance-ezgif.com-gif-to-sprite-converter(1)_9: 5383541725264466883
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

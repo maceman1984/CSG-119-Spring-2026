@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 96764322dfd4aaf4bb65f4621ad92264
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4340277425906470022
+    second: JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: 2530894598867448369
+    second: JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: -6697327422312798473
+    second: JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: -489251480245817297
+    second: JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: -3192342853083841773
+    second: JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: 6062912773960237576
+    second: JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: -1782644783024953038
+    second: JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: -1092481781565285101
+    second: JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: 2911239053231501776
+    second: JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: -1044544010484186348
+    second: JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: -7843958299958644120
+    second: JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 2546
+        width: 468
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73b23a4dac34c3c0800000000000000
+      internalID: -4340277425906470022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 2411
+        width: 444
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132f2797a3b8f1320800000000000000
+      internalID: 2530894598867448369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 4506
+        y: 2291
+        width: 545
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6209081305e03a0800000000000000
+      internalID: -6697327422312798473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 6477
+        y: 2276
+        width: 478
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f203d12fe54d539f0800000000000000
+      internalID: -489251480245817297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 8503
+        y: 2276
+        width: 276
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b3ea0c61582b3d0800000000000000
+      internalID: -3192342853083841773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1196
+        width: 294
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80204149b0bc32450800000000000000
+      internalID: 6062912773960237576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 1196
+        width: 255
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2392813c306c247e0800000000000000
+      internalID: -1782644783024953038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 4677
+        y: 1196
+        width: 294
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d173e9b99b6d0f0800000000000000
+      internalID: -1092481781565285101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 6477
+        y: 1316
+        width: 478
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1bb189e7cc66820800000000000000
+      internalID: 2911239053231501776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 8359
+        y: 1350
+        width: 545
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41304d6b1c80181f0800000000000000
+      internalID: -1044544010484186348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 251
+        width: 444
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862fcf93c79a42390800000000000000
+      internalID: -7843958299958644120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_0: -4340277425906470022
+      JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_1: 2530894598867448369
+      JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_10: -7843958299958644120
+      JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_2: -6697327422312798473
+      JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_3: -489251480245817297
+      JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_4: -3192342853083841773
+      JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_5: 6062912773960237576
+      JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_6: -1782644783024953038
+      JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_7: -1092481781565285101
+      JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_8: 2911239053231501776
+      JumpInPlaceAnimation-ezgif.com-gif-to-sprite-converter_9: -1044544010484186348
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
