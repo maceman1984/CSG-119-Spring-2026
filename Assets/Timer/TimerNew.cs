@@ -1,5 +1,6 @@
 using System;
 using System.Collections;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -31,7 +32,7 @@ public class TimerNew : MonoBehaviour
     {
         if (donski == true) return;
         elapsedTime += Time.deltaTime;
-        timer.gameObject.GetComponent<Text>().text = Math.Ceiling(PlayerPrefs.GetFloat("questionTime") - elapsedTime).ToString();
+        timer.gameObject.GetComponent<TextMeshProUGUI>().SetText(Math.Ceiling(PlayerPrefs.GetFloat("questionTime") - elapsedTime).ToString());
 
         if (elapsedTime > PlayerPrefs.GetFloat("questionTime"))
         {
