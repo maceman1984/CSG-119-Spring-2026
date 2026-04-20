@@ -4,6 +4,7 @@ using System.Threading;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using TMPro;
 using UnityEngine.UIElements;
 
 public class GameManager : MonoBehaviour
@@ -57,7 +58,7 @@ public class GameManager : MonoBehaviour
         dbAnswers[3] = db.answerD;
         // code bloat cuz of a previous mistake
 
-        question.GetComponent<Text>().text = db.question; // setting question text field
+        question.GetComponent<TextMeshPro>().text = db.question; // setting question text field
 
         int correctID = Random.Range(0, 3);
 
@@ -71,7 +72,7 @@ public class GameManager : MonoBehaviour
         }
         for (int i=0; i < answers.Length; i++)
         {
-            answers[i].GetComponent<Text>().text = dbAnswers[i];
+            answers[i].GetComponent<TextMeshPro>().text = dbAnswers[i];
         }
         em.ShuffleAndCastExercises();
         // ts blah blah garbage ngl
