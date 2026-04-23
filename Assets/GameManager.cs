@@ -34,6 +34,8 @@ public class GameManager : MonoBehaviour
     public TimerManager timer;
     public ExerciseManager em;
 
+    //public List<string> topicList = StaticDataHolder.staticTopicList;
+
 
     void Start()
     {
@@ -77,8 +79,8 @@ public class GameManager : MonoBehaviour
         em.ShuffleAndCastExercises();
         // ts blah blah garbage ngl
 
-        timer.ResetTimer();
-        timer.StartTimer();
+        //timer.ResetTimer();
+        //timer.StartTimer();
     }
 
     public void CorrectAnswer()
@@ -89,7 +91,7 @@ public class GameManager : MonoBehaviour
             //em.exercises[i].SetActive(false);
         }
 
-        timer.StopTimer();
+        //timer.StopTimer();
     }
 
     public void QuitGame()

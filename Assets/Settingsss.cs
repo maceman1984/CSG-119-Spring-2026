@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class Settingsss : MonoBehaviour
 {
@@ -11,7 +12,7 @@ public class Settingsss : MonoBehaviour
     void Start()
     {
         slider.gameObject.GetComponent<Slider>().value = (PlayerPrefs.HasKey("questionTime") ? PlayerPrefs.GetFloat("questionTime") : 15);
-        sliderValue.gameObject.GetComponent<Text>().text = "Question Time: " + slider.gameObject.GetComponent<Slider>().value;
+        sliderValue.gameObject.GetComponent<TextMeshProUGUI>().text = "Question Time: " + slider.gameObject.GetComponent<Slider>().value;
         this.gameObject.GetComponent<Toggle>().isOn = PlayerPrefs.GetString("Autoplay") == "true" ? true : false;
     }
 
@@ -33,6 +34,6 @@ public class Settingsss : MonoBehaviour
     {
         Debug.Log("Value Change!");
         PlayerPrefs.SetFloat("questionTime", slider.gameObject.GetComponent<Slider>().value);
-        sliderValue.gameObject.GetComponent<Text>().text = "Question Time: " + slider.gameObject.GetComponent<Slider>().value;
+        sliderValue.gameObject.GetComponent<TextMeshProUGUI>().text = "Question Time: " + slider.gameObject.GetComponent<Slider>().value;
     }
 }
