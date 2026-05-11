@@ -7,7 +7,8 @@ public class CSVReader : MonoBehaviour
 
     public GameObject questionCard;
     public List<GameObject> questionList;
-
+    StaticDataHolder sdh;
+    
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -16,6 +17,9 @@ public class CSVReader : MonoBehaviour
 
     public void ReadCSV()
     {
+        sdh = FindFirstObjectByType<StaticDataHolder>();
+        Debug.Log("Receiving " + sdh.staticTopicList.Count + " topics to enable");
+
         //string filePath = System.IO.Path.Combine(Application.streamingAssetsPath + "\\Questions");
         string filePath = Application.streamingAssetsPath + "\\Questions";
         string[] filePaths = Directory.GetFiles(filePath, "*.tsv");
@@ -59,5 +63,18 @@ public class CSVReader : MonoBehaviour
                 }
             }
         }
+
+        foreach(var temp in sdh.staticTopicList)
+        {
+            Debug.Log(temp);
+        }
+        foreach(GameObject obj in questionList)
+        {
+            if (!sdh.staticTopicList.Contains(obj.GetComponent<dataBank>().topic)) Destroy(obj);
+        }
     }
+
+    
+
+
 }
