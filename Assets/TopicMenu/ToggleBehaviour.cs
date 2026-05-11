@@ -79,6 +79,7 @@ public class ToggleBehaviour : MonoBehaviour
             toggleTemp.transform.position = new Vector3(pos.x, pos.y - (180 * i), 0);
             toggleTemp.gameObject.name = hashedList[i];
             toggleTemp.GetComponentInChildren<TextMeshProUGUI>().text = hashedList[i];
+            toggleTemp.GetComponent<RectTransform>().sizeDelta = new Vector2(0, 30);
             prefabList.Add(toggleTemp);
 
             

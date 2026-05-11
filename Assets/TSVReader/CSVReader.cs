@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using UnityEngine;
 
 public class CSVReader : MonoBehaviour
@@ -7,6 +8,7 @@ public class CSVReader : MonoBehaviour
 
     public GameObject questionCard;
     public List<GameObject> questionList;
+    public List<GameObject> newQuestionList;
     StaticDataHolder sdh;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -60,21 +62,36 @@ public class CSVReader : MonoBehaviour
                     temp.gameObject.SetActive(false);
 
                     questionList.Add(temp);
+
+
+                    //during parse, shuffle the list and prune all null entries
+
+
+
+
+
+
+
                 }
             }
         }
 
-        foreach(var temp in sdh.staticTopicList)
+        foreach (var temp in sdh.staticTopicList)
         {
             Debug.Log(temp);
         }
-        foreach(GameObject obj in questionList)
+        foreach (GameObject obj in questionList)
         {
             if (!sdh.staticTopicList.Contains(obj.GetComponent<dataBank>().topic)) Destroy(obj);
+            else newQuestionList.Add(obj);
+            // prune list of null entries
+        }
+        for (int i = 0; i < newQuestionList.Count; i++)
+        {
+            GameObject tempList = newQuestionList[i];
+            int j = Random.Range(i, newQuestionList.Count);
+            newQuestionList[i] = newQuestionList[j];
+            newQuestionList[j] = tempList;
         }
     }
-
-    
-
-
 }

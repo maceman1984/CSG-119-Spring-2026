@@ -18,12 +18,17 @@ public class TimerNew : MonoBehaviour
     void Start()
     {
 
-        if(PlayerPrefs.GetString("Autoplay") == "true")
+        if (PlayerPrefs.GetString("Autoplay") == "true")
         {
             gm.NextQuestion();
             StartCoroutine(QT1());
             button1.SetActive(false);
             button2.SetActive(false);
+        }
+        else
+        {
+            timer.SetActive(false);
+            gm.NextQuestion();
         }
     }
 

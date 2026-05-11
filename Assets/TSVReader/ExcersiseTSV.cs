@@ -58,5 +58,4 @@ public class ExcersiseTSV : MonoBehaviour
             gm.excercisesTF[i].GetComponent<TextMeshPro>().text = exercises[i];
         }
     }
-
 }

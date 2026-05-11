@@ -12,8 +12,21 @@ public class Settingsss : MonoBehaviour
     void Start()
     {
         slider.gameObject.GetComponent<Slider>().value = (PlayerPrefs.HasKey("questionTime") ? PlayerPrefs.GetFloat("questionTime") : 15);
+        PlayerPrefs.SetFloat("questionTime", slider.gameObject.GetComponent<Slider>().value);
         sliderValue.gameObject.GetComponent<TextMeshProUGUI>().text = "Question Time: " + slider.gameObject.GetComponent<Slider>().value;
-        this.gameObject.GetComponent<Toggle>().isOn = PlayerPrefs.GetString("Autoplay") == "true" ? true : false;
+        
+        
+        if (PlayerPrefs.HasKey("Autoplay"))
+        {
+            this.gameObject.GetComponent<Toggle>().isOn = PlayerPrefs.GetString("Autoplay") == "true" ? true : false;
+        }
+        else
+        {
+            this.gameObject.GetComponent<Toggle>().isOn = false;
+            PlayerPrefs.SetString("Autoplay", "false");
+        }
+        
+       // PlayerPrefs.SetString("Autoplay", this.gameObject.GetComponent<Toggle>().isOn.ToString());
     }
 
     public void AutoPlay()

@@ -31,6 +31,8 @@ public class GameManager : MonoBehaviour
     private string[] dbAnswers = new string[4];
     // translation variable
 
+    [SerializeField]private int qID = 0;
+
     public TimerManager timer;
     public ExerciseManager em;
 
@@ -40,19 +42,31 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         importer.ReadCSV();
-        exerciseImporter.ParseExercises();
+        //exerciseImporter.ParseExercises();
         NextQuestion(); // In place for temporary builds so that you dont have to press the next question button and see the unpolished stuff
     }
 
     public void NextQuestion() //Function for setting up next question + answers
     {
+        qID++;
+        if (qID >= importer.newQuestionList.Count)
+        {
+            qID = 0;
+            for (int i = 0; i < importer.newQuestionList.Count; i++)
+            {
+                GameObject tempList = importer.newQuestionList[i];
+                int j = Random.Range(i, importer.newQuestionList.Count);
+                importer.newQuestionList[i] = importer.newQuestionList[j];
+                importer.newQuestionList[j] = tempList;
+            }
+        }
         for (int i = 0; i < answers.Length; i++)
         {
             answers[i].SetActive(true);
             em.exercises[i].SetActive(false);
         }
-        int qID = Random.Range(1, importer.questionList.Count);
-        GameObject currentQuestion = importer.questionList[qID];
+        //int qID = Random.Range(1, importer.newQuestionList.Count);
+        GameObject currentQuestion = importer.newQuestionList[qID];
         dataBank db = currentQuestion.GetComponent<dataBank>();
         dbAnswers[0] = db.answerA;
         dbAnswers[1] = db.answerB;

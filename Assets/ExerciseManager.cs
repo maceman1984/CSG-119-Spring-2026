@@ -24,6 +24,7 @@ public class ExerciseManager : MonoBehaviour
 
     public void ShuffleAndCastExercises()
     {
+        Debug.Log("Shuffle and casting");
         for (int i = 0; i < exercises.Length; i++)
         {
             GameObject tmp = exercises[i];
