@@ -14,6 +14,8 @@ public class ToggleBehaviour : MonoBehaviour
     public Vector3 toggleStartPos = new Vector3(252, 188, 0);
     public GameObject canvasParent;
     public StaticDataHolder sdh;
+    public GameObject autoplay;
+
     void Start()
     {
         ReadCSV();
@@ -107,7 +109,8 @@ public class ToggleBehaviour : MonoBehaviour
                 Debug.Log("Added" + topics.gameObject.name + " to list");
             }
         }
-
+        string _autoplay = autoplay.gameObject.GetComponent<Toggle>().isOn ? "true" : "false";
+        PlayerPrefs.SetString("Autoplay", _autoplay);
         SceneManager.LoadScene("SampleScene");
         // parse the topics
         // loop instantiate them

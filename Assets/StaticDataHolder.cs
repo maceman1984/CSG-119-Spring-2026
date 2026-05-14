@@ -10,6 +10,5 @@ public class StaticDataHolder : MonoBehaviour
     {
         staticTopicList = new List<string>();
         DontDestroyOnLoad(this);
-
     }
 }

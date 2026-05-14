@@ -1305,19 +1305,7 @@ MonoBehaviour:
   m_Group: {fileID: 0}
   onValueChanged:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 484764693}
-        m_TargetAssemblyTypeName: Settingsss, Assembly-CSharp
-        m_MethodName: AutoPlay
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
   m_IsOn: 1
 --- !u!114 &484764693
 MonoBehaviour:
@@ -3192,6 +3180,7 @@ MonoBehaviour:
   toggleStartPos: {x: 610, y: 214, z: 0}
   canvasParent: {fileID: 934025080}
   sdh: {fileID: 1566388440}
+  autoplay: {fileID: 484764690}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

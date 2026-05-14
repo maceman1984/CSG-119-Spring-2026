@@ -9,6 +9,11 @@ using UnityEngine.UIElements;
 
 public class GameManager : MonoBehaviour
 {
+    private const string Version = "0.2.6";
+    private const string Title = "Trivia Workout";
+    private const string Fluff = "Ethan was here <3";
+
+
     [Header("Text Separated Value Importers")]
     [Tooltip("TSV Importer for questions")]
     public CSVReader importer;

@@ -29,19 +29,19 @@ public class Settingsss : MonoBehaviour
        // PlayerPrefs.SetString("Autoplay", this.gameObject.GetComponent<Toggle>().isOn.ToString());
     }
 
-    public void AutoPlay()
-    {
-        if (PlayerPrefs.GetString("Autoplay") == "false")
-        {
-            PlayerPrefs.SetString("Autoplay", "true");
+    //public void AutoPlay()
+    //{
+    //    if (PlayerPrefs.GetString("Autoplay") == "false")
+    //    {
+    //        PlayerPrefs.SetString("Autoplay", "true");
             
-        }
-        else
-        {
-            PlayerPrefs.SetString("Autoplay", "false");
-        }
-        Debug.Log(this.gameObject.GetComponent<Toggle>().isOn);
-    }
+    //    }
+    //    else
+    //    {
+    //        PlayerPrefs.SetString("Autoplay", "false");
+    //    }
+    //    Debug.Log(this.gameObject.GetComponent<Toggle>().isOn);
+    //}
 
     public void QTime()
     {
